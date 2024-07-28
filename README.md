@@ -1,11 +1,9 @@
-# bingo-game
-Bingo game built with Python for gambling purposes. Features real-time gameplay, customizable rules, and secure transactions. Uses Python's random library for fair number draws and supports multiplayer play. Designed for an engaging user experience.
 # bingogame
 
 ## starting by cloning repo
 ```
-git clone https://github.com/rishabhjainfinal/bingogame.git
-cd bingogame
+git clone https://github.com/mulleras/bingo-game.git
+cd bingo-game
 ```
 
 ### All the requirements are define in requirements.txt use 
@@ -29,9 +27,6 @@ there is 2 possible way to play
 ```
 
 
-
-so from the numbers and one time chits which is equavelent to one box we save about **₹750 ~ $9.78**
-adding the generation of chits for free it upto you how many chits you can produce lets make a round of **₹2000**
 
 
 
